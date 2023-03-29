@@ -1,0 +1,6 @@
+Array: [3, 6, 4, 8, 1, 2, 3]
+After iteration1: [3, 4, 6, 1, 2, 3, 8]
+After iteration2: [3, 4, 1, 2, 3, 6, 8]
+After iteration3: [3, 1, 2, 3, 4, 6, 8]
+After iteration4: [1, 2, 3, 3, 4, 6, 8]
+After iteration5: [1, 2, 3, 3, 4, 6, 8]
